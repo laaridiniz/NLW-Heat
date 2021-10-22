@@ -26,6 +26,8 @@ As seguintes tecnologias e ferramentas foram utilizadas neste projeto:
 - HTML 5 (marcação dos campos da página web)
 - CSS 3 (atribuição de estilo)
 - JavaScript (incorporação de instruções lógicas)
+- Visual Studio Code (editor de códigos)
+- GitHub (versionamento de códigos)
 
 </div>
 
